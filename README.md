@@ -82,7 +82,7 @@ Ensure you have the following dependencies installed on your system:
 
 ###  Installation
 
-1. Clone the KNN_Regression repository:
+1. Clone the K-Means Clustering repository:
 
 ```sh
 git clone https://github.com/sumony2j/K-Means_Clustering.git
@@ -100,9 +100,9 @@ cd K-Means_Clustering
 pip install -r requirements.txt
 ```
 
-###  Running KNN_Regression
+###  Running K-Means Clustering
 
-Use the following command to run KNN_Regression:
+Use the following command to run K-Means Clustering:
 
 ```sh
 jupyter nbconvert --execute notebook.ipynb
